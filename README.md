@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Machine Learning using Python 
 - 💞️ I’m looking to collaborate on ..."I'm looking to collaborate on open-source projects related to machine learning and artificial intelligence."
 -  "Seeking opportunities to collaborate on projects aimed at improving accessibility and inclusivity in technology."
-- 📫 How to reach me  [Linkdin](www.linkedin.com/in/ajay-ss-03b51b226) [Email](ajay.srirampura@gamil.com)
+- 📫 How to reach me  [Linkdin](www.linkedin.com/in/ajay-ss-03b51b226) (ajay.srirampura@gamil.com)
 
 - 😄 Pronouns: ... He/Him
 - When I'm not making  music on my guitar, I'm probably speed up my pedaling as I cruise out of the town! 🎸🚴‍♂️
