@@ -1,14 +1,36 @@
-- Hi, I’m @Ajay2k4
-- I’m interested in ...AI ML and Data Science 
-- I’m currently learning ...Machine Learning using Python 
-- I’m looking to collaborate on ..."I'm looking to collaborate on open-source projects related to machine learning and artificial intelligence."
-- "Seeking opportunities to collaborate on projects aimed at improving accessibility and inclusivity in technology."
-- How to reach me  [Linkdin](www.linkedin.com/in/ajay-ss-03b51b226) (heyajayss@gamil.com)
+# Hi, I'm Ajay S S 👋
 
+Final-year Computer Science Engineering student with hands-on experience in building scalable AI/ML and Generative AI systems. I focus on designing end-to-end intelligent solutions combining machine learning, backend engineering, and cloud infrastructure.
 
-- When I'm not making  music on my guitar, I'm probably speed up my pedaling as I cruise out of the town! 🎸🚴‍♂️
+## 🚀 What I Do
+- Build AI/ML systems with real-world applications  
+- Develop Generative AI solutions using LLMs, RAG, and multi-agent architectures  
+- Design scalable backend systems and APIs  
+- Work on cloud-native deployments and DevOps pipelines  
 
-<!---
-Ajay2k4/Ajay2k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 Technical Expertise
+- **Languages:** Python, Java, C  
+- **AI/ML:** TensorFlow, PyTorch, Computer Vision, NLP, Model Training & Evaluation  
+- **Generative AI:** LLMs, RAG, LangChain, Multi-Agent Systems  
+- **Backend:** FastAPI, Flask, REST APIs  
+- **Cloud & DevOps:** Docker, Kubernetes, Terraform, CI/CD (GitHub Actions)  
+- **Cloud Platforms:** GCP, AWS (Basics), Azure (Basics)  
+- **Databases:** SQL, MongoDB  
+
+## 🛠 Key Projects
+- **Autonomous AI Tutor (Multi-Agent + RAG):** Built an enterprise-level AI learning system with adaptive feedback and personalized learning paths  
+- **CI/CD Pipeline on GCP:** Automated deployment using Terraform, Docker, and GitHub Actions  
+- **ANPR System:** Deep learning-based number plate recognition using TensorFlow  
+
+## 🤝 Open to Collaborate On
+- AI/ML and Generative AI projects  
+- Open-source contributions in LLMs, backend systems, and cloud AI  
+- Building scalable AI-driven products  
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/ajay-ss-03b51b226  
+- Email: heyajayss@gmail.com  
+
+---
+
+⚡ When I'm not building systems, you'll find me playing guitar or cycling.
